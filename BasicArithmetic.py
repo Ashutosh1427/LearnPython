@@ -1,8 +1,8 @@
 a=20
 b=10
 print(a+b) #Addition-Both operands can be either number or strings
-print(a-b)
-print(a*b)
+print(a-b) #Subtraction
+print(a*b) #Multiplication
 print(a/b) #floating point division
 print(a//b) #floor division-may return as int or float but always floor value of the final result
 print(a%b)
